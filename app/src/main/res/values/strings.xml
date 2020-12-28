@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CalculateTest</string>
+
+    <string name="with">&amp;</string>
+    <string name="or">|</string>
+    <string name="non">~</string>
+    <string name="shift_left">&lt;&lt;</string>
+    <string name="shift_right">&gt;&gt;</string>
+    <string name="not">^</string>
+    <string name="input_a">请输入A值</string>
+    <string name="input_b">请输入B值</string>
+    <string name="calculate">计算</string>
+    <string name="limit">-0123456789</string>
+    <string name="A">A数二进制</string>
+    <string name="B">B数二进制</string>
+    <string name="out_type">以Long类型计算与输出</string>
+    <string name="results">计算结果</string>
+    <string name="resultsA">A值二进制</string>
+    <string name="resultsB">B值二进制</string>
+    <string name="resultsC">结果二进制</string>
+    <string name="A_1">A:</string>
+    <string name="B_1">B:</string>
+    <string name="C_1">结果:</string>
+    <string name="A_2">A2:</string>
+    <string name="B_2">B2:</string>
+    <string name="C_2">结果2:</string>
+    <string name="toast_1">请选择计算类型</string>
+</resources>
